@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.PolynomialExpansion","timestamp":1733698312035,"sparkVersion":"3.5.2-amzn-1","uid":"PolynomialExpansion_a11bd13bacab","paramMap":{"inputCol":"scaledFeatures","outputCol":"polyFeatures","degree":2},"defaultParamMap":{"outputCol":"PolynomialExpansion_a11bd13bacab__output","degree":2}}
